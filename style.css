@@ -1,0 +1,22 @@
+body {
+  font-family: Arial;
+  background: #111;
+  color: #fff;
+  text-align: center;
+}
+
+.movies {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.movie {
+  background: #222;
+  padding: 15px;
+  border-radius: 8px;
+}
+
+.title {
+  color: gold;
+}
